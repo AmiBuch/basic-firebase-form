@@ -1,2 +1,8 @@
 # basic-firebase-form
-currently has my firebase creds on it but ideally you'd have to write the config details of the firebase account is use
+This is a sample HTML form that sends data to Firestore, the Firebase databse.
+To run it, you will need to install firebase sdk for all firebase dependencies.
+
+```bash
+npm install firebase
+```
+The form has 2 input fields of the present, Name and Email.
